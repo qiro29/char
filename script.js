@@ -5,7 +5,7 @@ const chatInput = document.querySelector(".chat-input textarea");
 const sendChatBtn = document.querySelector(".chat-input span");
 
 let userMessage = null;
-const API_KEY = "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";
+const API_KEY = "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";
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
